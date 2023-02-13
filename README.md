@@ -1,4 +1,4 @@
-# Firebase-authentication
+# Firebase-authentication.
 
 <h4 style="color:green">Fetched data From Google server using login with google feature.</h4>
 
